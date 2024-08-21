@@ -56,11 +56,3 @@ Commands are stored in a circular queue, allowing for a finite history that main
 ### Environment Variables
 
 Environment paths can be dynamically added at shell startup, allowing for customized command searches without altering the global system environment permanently.
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE.md).
